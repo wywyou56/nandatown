@@ -1,0 +1,11 @@
+seed,scoring_baseline,scoring_isolated,scoring_detail_same,warnings_baseline,warnings_isolated,baseline_warning_broadcasts,isolated_report_sends,isolated_report_receives,isolated_report_drops
+1,PASS,PASS,true,PASS,PASS,0,80,0,80
+2,PASS,PASS,true,PASS,FAIL,2,80,0,80
+3,PASS,PASS,true,PASS,FAIL,2,80,0,80
+7,PASS,PASS,true,PASS,FAIL,2,80,0,80
+11,PASS,PASS,true,PASS,FAIL,3,80,0,80
+42,FAIL,FAIL,true,PASS,FAIL,3,80,0,80
+99,PASS,PASS,true,PASS,FAIL,2,80,0,80
+123,PASS,PASS,true,PASS,FAIL,3,80,0,80
+777,PASS,PASS,true,PASS,PASS,0,80,0,80
+2024,PASS,PASS,true,PASS,PASS,1,80,0,80
